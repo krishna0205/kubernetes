@@ -8,4 +8,4 @@ server:
   port: 8080
 
 #spring.data.mongodb.uri: mongodb://idgst-mongo:27017/digest
-spring.data.mongodb.uri: mongodb://mithuntechnologies:passw0rd@52.91.243.251:27017/digest
+spring.data.mongodb.uri: mongodb://52.91.243.251:27017/digest
